@@ -2,7 +2,7 @@ import React from 'react'
 import heroImg from "../img/happy.jpg"
 
 const HeroSection = () => {
-    const subHeading = "Ebube is a lover of wo....."
+    const subHeading = "Obinna is a boy"
   return (
     <div className="heroSection">
         <div className='text'>

@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Navbar = () => {
+const Navbar = ({obinna}) => {
   return (
     <div className="navbar">
         <div className="logo">
-            <a href="/">logo</a>
+            <a href="/">{obinna}</a>
         </div>
 
         <ul>
